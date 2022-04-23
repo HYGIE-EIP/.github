@@ -1,4 +1,4 @@
-# Hygie🚀
+# Hygie 🚀
 
 [Adam](https://github.com/Getams) /
 [Briann](https://github.com/BriannGerb) /
