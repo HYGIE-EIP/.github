@@ -1,15 +1,4 @@
 # Hygie🚀
-
-## Description
-
-## Getting Started
-
-### Dependencies
-
-### Installing
-
-### Executing program
-
 ## Authors
 
 [Adam](https://github.com/Getams) /
@@ -20,7 +9,6 @@
 [Reda](https://github.com/bilaycmoi) /
 [Tristan](https://github.com/Tristan-flores) /
 [Yanis](https://github.com/yanis1104)
-
 
 ## Version History
 
